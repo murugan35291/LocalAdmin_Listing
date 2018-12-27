@@ -4,8 +4,8 @@
 # Make sure that you have the serverslist.txt file exist in the same folder where the script exist, otherwise, you need to provide
 # the full path of the input file. 
 # Author : Murugan Natarajan
-# Email  : murugann.chennai@gmail.com
-# Script created date: 8/3/2017
+# Email  : murugan.natarajan@outlook.com
+# Script created date: 8/3/2018
 # Script provided without any warranty, please use it with your own risk.
 
 
